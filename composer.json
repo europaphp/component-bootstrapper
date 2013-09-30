@@ -18,6 +18,6 @@
   },
   "require": {
     "php": ">=5.4.0, <6.0.0",
-    "europaphp/reflection": "dev-master"
+    "europaphp/component-reflection": "dev-master"
   }
 }
