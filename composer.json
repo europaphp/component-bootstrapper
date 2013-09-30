@@ -1,0 +1,23 @@
+{
+  "name": "europaphp/reflection",
+  "description": "EuropaPHP reflection component.",
+  "keywords": ["mvc", "view", "controller", "fast", "scalable", "simple", "module", "modular"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Trey Shugart",
+      "email": "treshugart@gmail.com",
+      "homepage": "http://iamtres.com",
+      "role": "Lead Developer"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Europa": "src"
+    }
+  },
+  "require": {
+    "php": ">=5.4.0, <6.0.0",
+    "europaphp/reflection": "dev-master"
+  }
+}
