@@ -1,6 +1,6 @@
 {
-  "name": "europaphp/reflection",
-  "description": "EuropaPHP reflection component.",
+  "name": "europaphp/component-bootstrapper",
+  "description": "EuropaPHP bootstrapper component.",
   "keywords": ["mvc", "view", "controller", "fast", "scalable", "simple", "module", "modular"],
   "license": "MIT",
   "authors": [
